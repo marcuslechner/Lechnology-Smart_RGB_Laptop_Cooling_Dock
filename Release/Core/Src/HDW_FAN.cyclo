@@ -1,0 +1,8 @@
+../Core/Src/HDW_FAN.c:26:6:HDW_FAN_set_speed	2
+../Core/Src/HDW_FAN.c:38:9:HDW_FAN_get_speed	1
+../Core/Src/HDW_FAN.c:43:6:HDW_FAN_is_PID_enabled	1
+../Core/Src/HDW_FAN.c:48:6:HDW_FAN_set_PID_enabled	1
+../Core/Src/HDW_FAN.c:52:13:HDW_FAN_update_speed	4
+../Core/Src/HDW_FAN.c:77:13:HDW_FAN_PID_process	1
+../Core/Src/HDW_FAN.c:89:6:HDW_FAN_init	1
+../Core/Src/HDW_FAN.c:97:6:HDW_FAN_process	3

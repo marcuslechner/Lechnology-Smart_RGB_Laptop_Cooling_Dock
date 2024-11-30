@@ -1,0 +1,12 @@
+../Core/Src/HDW_BME280.c:61:6:TrimRead	1
+../Core/Src/HDW_BME280.c:110:5:BME280_Config	8
+../Core/Src/HDW_BME280.c:177:5:BMEReadRaw	2
+../Core/Src/HDW_BME280.c:205:6:BME280_WakeUP	1
+../Core/Src/HDW_BME280.c:227:9:BME280_compensate_T_int32	1
+../Core/Src/HDW_BME280.c:242:10:BME280_compensate_P_int64	2
+../Core/Src/HDW_BME280.c:298:10:bme280_compensate_H_int32	1
+../Core/Src/HDW_BME280.c:319:6:BME280_Measure	5
+../Core/Src/HDW_BME280.c:356:6:HDW_BME280_process	3
+../Core/Src/HDW_BME280.c:367:8:HDW_BME280_get_temperature	1
+../Core/Src/HDW_BME280.c:371:8:HDW_BME280_get_humidity	1
+../Core/Src/HDW_BME280.c:375:8:HDW_BME280_get_pressure	1

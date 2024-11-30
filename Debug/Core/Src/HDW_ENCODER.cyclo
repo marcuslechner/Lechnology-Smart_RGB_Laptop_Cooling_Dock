@@ -1,0 +1,6 @@
+../Core/Src/HDW_ENCODER.c:22:6:HDW_ENCODER_Init	1
+../Core/Src/HDW_ENCODER.c:28:6:HDW_ENCODER_process	6
+../Core/Src/HDW_ENCODER.c:59:10:HDW_ENCODER_Read	1
+../Core/Src/HDW_ENCODER.c:65:27:HDW_ENCODER_Get_Status	3
+../Core/Src/HDW_ENCODER.c:85:6:HDW_ENCODER_Config	1
+../Core/Src/HDW_ENCODER.c:114:9:HDW_ENCODER_get_count	1

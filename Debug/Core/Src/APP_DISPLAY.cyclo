@@ -1,0 +1,13 @@
+../Core/Src/APP_DISPLAY.c:50:6:APP_DISPLAY_init	1
+../Core/Src/APP_DISPLAY.c:61:6:APP_DISPLAY_process	10
+../Core/Src/APP_DISPLAY.c:119:13:APP_DISPLAY_start_screen	1
+../Core/Src/APP_DISPLAY.c:127:13:APP_DISPLAY_fan_speed	2
+../Core/Src/APP_DISPLAY.c:148:13:APP_DISPLAY_display_RGB_control	9
+../Core/Src/APP_DISPLAY.c:220:13:APP_DISPLAY_temperature	4
+../Core/Src/APP_DISPLAY.c:270:13:APP_DISPLAY_brightness	2
+../Core/Src/APP_DISPLAY.c:291:13:APP_DISPLAY_pid	2
+../Core/Src/APP_DISPLAY.c:311:13:APP_DISPLAY_update_screen	1
+../Core/Src/APP_DISPLAY.c:317:6:APP_DISPLAY_increment_page_number	1
+../Core/Src/APP_DISPLAY.c:324:6:APP_DISPLAY_increment_tab_number	1
+../Core/Src/APP_DISPLAY.c:330:6:APP_DISPLAY_decrement_tab_number	2
+../Core/Src/APP_DISPLAY.c:338:6:APP_DISPLAY_refresh_screen	1

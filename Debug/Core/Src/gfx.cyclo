@@ -1,0 +1,13 @@
+../Core/Src/gfx.c:18:6:draw_pixel	4
+../Core/Src/gfx.c:32:6:draw_pixel_triple	5
+../Core/Src/gfx.c:43:6:invert_pixel	3
+../Core/Src/gfx.c:52:6:invert_rectangle	3
+../Core/Src/gfx.c:60:6:clear	3
+../Core/Src/gfx.c:68:6:line_v	21
+../Core/Src/gfx.c:132:6:line_h	21
+../Core/Src/gfx.c:199:6:graphics_Glyph	4
+../Core/Src/gfx.c:222:6:graphics_text	5
+../Core/Src/gfx.c:265:6:graphics_Glyph_vertical	4
+../Core/Src/gfx.c:288:6:graphics_text_vertical	5
+../Core/Src/gfx.c:331:6:draw_bitmap	9
+../Core/Src/gfx.c:360:6:draw_bitmap_fast	3

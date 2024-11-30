@@ -1,0 +1,9 @@
+../Core/Src/SYS_TIMER.c:15:6:SYS_TIMER_init	1
+../Core/Src/SYS_TIMER.c:21:10:SYS_TIMER_create	2
+../Core/Src/SYS_TIMER.c:34:6:SYS_TIMER_start	2
+../Core/Src/SYS_TIMER.c:44:6:SYS_TIMER_stop	2
+../Core/Src/SYS_TIMER.c:52:6:SYS_TIMER_stop_all	2
+../Core/Src/SYS_TIMER.c:61:6:SYS_TIMER_expired	5
+../Core/Src/SYS_TIMER.c:90:10:SYS_TIMER_get_elapsed_ms	3
+../Core/Src/SYS_TIMER.c:106:10:SYS_TIMER_get_RTC_time_ms	1
+../Core/Src/SYS_TIMER.c:113:17:SYS_TIMER_get_RTC_tick	1
