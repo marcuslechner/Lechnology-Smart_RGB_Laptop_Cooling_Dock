@@ -5,17 +5,15 @@
 
 📦 **Proudly sponsored by [PCBWay](https://pcbway.com/g/QN1n73)** — all PCBs in this project were professionally fabricated through their prototyping service.  
 
-![3D Printed RGB Laptop Dock](Assets/laptop_dock_thumbnail.png)
+---
+
+## 🎥 Design and Build Video
+
+📺 **[Click below to watch the full project video on YouTube](https://youtu.be/KlnJxFxes5I)**
+[![Watch on YouTube](https://img.youtube.com/vi/KlnJxFxes5I/hqdefault.jpg)](https://youtu.be/KlnJxFxes5I)
 
 [![Watch on YouTube](https://img.shields.io/badge/Watch%20Video-%F0%9F%8E%A5-red?logo=youtube)](https://youtu.be/KlnJxFxes5I)  
 [![GitHub Stars](https://img.shields.io/github/stars/marcuslechner/Lechnology-Smart_RGB_Laptop_Cooling_Dock?style=social)](https://github.com/marcuslechner/Lechnology-Smart_RGB_Laptop_Cooling_Dock)
-
----
-
-## 🎥 Design and Build
-
-📺 **[Click to watch the full project video on YouTube](https://youtu.be/KlnJxFxes5I)**  
-Covers mechanical CAD, circuit design, PCB layout, assembly, and embedded firmware development.
 
 ---
 
